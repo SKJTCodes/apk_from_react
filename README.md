@@ -2,11 +2,11 @@
 Build An APK From REACTJS WEB APP
 
 ## Steps
-npm install -g @ionic/cli
-npm install @capacitor/core @capacitor/cli
-npx cap init -> fill in details
-npm install @capacitor/android
-ionic init -> choose react
+1. npm install -g @ionic/cli
+2. npm install @capacitor/core @capacitor/cli
+3. npx cap init -> fill in details
+4. npm install @capacitor/android
+5. ionic init -> choose react
 ionic build
 npx cap add android -> generates android folder
 open android folder using android studios
